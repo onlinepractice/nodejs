@@ -1,6 +1,6 @@
 # nodejs
 this repository contains all the required tools and configurations to setup nodejs for different machines
-for MAC, run this: 
+for ubuntu docker container running on MAC, try this: 
 # curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 -----------
 Log details
